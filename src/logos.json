@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "image": "./images/apple.png"
+  },
+  {
+    "id": 2,
+    "name": "Audi",
+    "image": "./images/audi.png"
+  },
+  {
+    "id": 3,
+    "name": "BMW",
+    "image": "./images/bmw.png"
+  },
+  {
+    "id": 4,
+    "name": "Dell",
+    "image": "./images/dell.png"
+  },
+  {
+    "id": 5,
+    "name": "Dove",
+    "image": "./images/dove.png"
+  },
+  {
+    "id": 6,
+    "name": "Facebook",
+    "image": "./images/facebook.png"
+  },
+  {
+    "id": 7,
+    "name": "Ford",
+    "image": "./images/ford.png"
+  },
+  {
+    "id": 8,
+    "name": "GE",
+    "image": "./images/ge.png"
+  },
+  {
+    "id": 9,
+    "name": "HP",
+    "image": "./images/hp.png"
+  },
+  {
+    "id": 10,
+    "name": "Instagram",
+    "image": "./images/instagram.png"
+  },
+  {
+    "id": 11,
+    "name": "Kia",
+    "image": "./images/kia.png"
+  },
+  {
+    "id": 12,
+    "name": "NBC",
+    "image": "./images/nbc.png"
+  },
+  {
+    "id": 13,
+    "name": "NYSE",
+    "image": "./images/nyse.png"
+  },
+  {
+    "id": 14,
+    "name": "Samsung",
+    "image": "./images/samsung.png"
+  },
+  {
+    "id": 15,
+    "name": "Twitter",
+    "image": "./images/twitter.png"
+  },
+  {
+    "id": 16,
+    "name": "Yahoo",
+    "image": "./images/yahoo.png"
+  },
+  {
+    "id": 17,
+    "name": "Google",
+    "image": "./images/google.png"
+  },
+  {
+    "id": 18,
+    "name": "Pizza",
+    "image": "./images/pizza.jpg"
+  },
+  {
+    "id": 19,
+    "name": "McDonalds",
+    "image": "./images/md.png"
+  },
+  {
+    "id": 20,
+    "name": "KFC",
+    "image": "./images/kfc.png"
+  }
+  
+]

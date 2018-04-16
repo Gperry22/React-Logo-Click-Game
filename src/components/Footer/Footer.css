@@ -1,0 +1,21 @@
+.footer{
+    background-color: blue;
+    color: white;
+    margin-top: 60px;
+    height: 140px;
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+.github-link{
+    color: white;
+
+}
+
+.github-link:hover{
+    color: white;
+}
+
+.fa-github{
+    color: white;
+}

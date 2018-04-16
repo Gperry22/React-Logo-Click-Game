@@ -1,0 +1,19 @@
+.scoreboard{
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 3px 3px 10px gray;
+    font-size: 20px;
+}
+
+.nav{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.nav > li{
+    margin: 0 auto;
+}

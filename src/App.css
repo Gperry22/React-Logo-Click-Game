@@ -1,0 +1,10 @@
+.mainBG {
+    background-image: url("/images/dust.png")
+}
+
+.gameBoard {
+    background-color: whitesmoke;
+    box-shadow: 3px 3px 10px gray;
+    text-align: center;
+    margin-top: 20px;
+}

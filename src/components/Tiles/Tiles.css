@@ -1,0 +1,28 @@
+.tiles-img{
+    width: 170px;
+    height: 150px;
+    margin: 20px;
+    transition: 0.5s;
+    position: relative;
+    box-shadow: 3px 3px 10px gray ;
+    background-color: white;
+}
+
+/* .tiles-img:after,{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: "";
+} */
+
+.tiles-img:hover,
+.tiles-img:focus{
+    box-shadow: 5px 5px 10px gray;
+    transform: scale3d(1.10, 1.10, 1);
+    cursor: pointer;
+}
+.tile{
+    display: inline-block
+}
